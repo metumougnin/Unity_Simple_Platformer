@@ -6,7 +6,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Debug.log("Hello World!");
 	}
 	
 	// Update is called once per frame
